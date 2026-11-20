@@ -1,6 +1,6 @@
 .main{
     width: auto;
-    background: linear-gradient(to top,rgba(0,0,0,0.15) 0%, rgba(0,0,0,0.15)0%), url(mainpic.jpg);
+    background: linear-gradient(to top,rgba(0,0,0,0.15) 0%, rgba(0,0,0,0.15)0%), url(background\ image.jpg);
     background-position: center;
     background-size: cover;
     overflow-x: hidden;
@@ -38,7 +38,7 @@ border-radius: 30px;
 padding: 13px;
 width: 120px;
 }
-.pill{
+.nav{
     gap: 12px;
 }
 
@@ -140,83 +140,3 @@ em{
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-/* .navbar{
-    width: 400px;
-    float: left;
-    height: 70px;
-
-    /* width: 1200px;
-    height: 75px;
-    margin: auto; */
-/* } */
-
-/* ul{
-    float: none;
-    display: flex; */
-    /* justify-content: space-between;
-    align-items: center;
-    gap:16px;
-    padding: 6px 14px;
-    background: rgba(0,0,0,0.35);
-    backdrop-filter: blur(12px);
-    border-radius: 800px;
-    border: 1px solid rgba(255, 255,255,0.1,);
-    list-style: none;
-    margin: 0;
-    
-}
-nav a{
-    white-space: nowrap;
-    display: inline-block;
-}
-ul li{
-    list-style: none;
-        margin-left: 0px;
-    margin-top: 0px;
-   
-} */
-/* ul li a{
-    text-decoration: none;
-    color: white;
-    font-size: 14px;
-    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    font-weight: bold;
-    padding: 6px 10px;
-    border-radius: 999px;
-    transition: 0.6s ease-in-out;
-}
-ul li a:hover{
-    color: blue;
-    background: rgba(255,255,255,0.1);
-}
-.seprate{
-    text-decoration: none;
-    color: white;
-    font-size: 14px;
-    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    font-weight: bold;
-    border-radius: 999px;
-    transition: 0.4s ease-in-out;
-} */
-
-/* footer{
-    background-color: green;
-} */
